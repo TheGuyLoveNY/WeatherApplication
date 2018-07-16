@@ -1,0 +1,11 @@
+C:\Users\kalan\source\repos\WeatherApplication\WeatherApplication\bin\Release\WeatherApplication.exe.config
+C:\Users\kalan\source\repos\WeatherApplication\WeatherApplication\bin\Release\WeatherApplication.exe
+C:\Users\kalan\source\repos\WeatherApplication\WeatherApplication\bin\Release\WeatherApplication.pdb
+C:\Users\kalan\source\repos\WeatherApplication\WeatherApplication\bin\Release\Newtonsoft.Json.dll
+C:\Users\kalan\source\repos\WeatherApplication\WeatherApplication\bin\Release\Newtonsoft.Json.xml
+C:\Users\kalan\source\repos\WeatherApplication\WeatherApplication\obj\Release\WeatherApplication.mainForm.resources
+C:\Users\kalan\source\repos\WeatherApplication\WeatherApplication\obj\Release\WeatherApplication.Properties.Resources.resources
+C:\Users\kalan\source\repos\WeatherApplication\WeatherApplication\obj\Release\WeatherApplication.csproj.GenerateResource.Cache
+C:\Users\kalan\source\repos\WeatherApplication\WeatherApplication\obj\Release\WeatherApplication.csproj.CoreCompileInputs.cache
+C:\Users\kalan\source\repos\WeatherApplication\WeatherApplication\obj\Release\WeatherApplication.exe
+C:\Users\kalan\source\repos\WeatherApplication\WeatherApplication\obj\Release\WeatherApplication.pdb
